@@ -7,6 +7,7 @@ Simple war cards game created out of boredom
 In order to speed up the game comment out STEP_BY_STEP macro from main.cpp
 
 # The beginning of the game:
+<pre>
 Number of enemy cards: 51
 ╓───────┐
 ║╲ ╲ ╲ ╲│
@@ -41,8 +42,9 @@ Number of Your cards: 51
 
 You take
 
-
+</pre>
 # The end of the game:
+<pre>
 Number of enemy cards: 0
          
          
@@ -77,3 +79,4 @@ Number of Your cards: 104
 
 You won the game!
 It took 974 rounds.
+</pre>
